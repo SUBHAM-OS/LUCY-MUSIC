@@ -14,9 +14,9 @@ import time
 
 Client(
     ':Music:',
-    API_ID,
-    API_HASH,
-    bot_token=BOT_TOKEN,
+    API_ID,9544527
+    API_HASH,878b74f6b71507ddaf425d9ebaa30747
+    bot_token=BOT_TOKEN,5080922319:AAH0l7XDHCk6Dnkk9DgRUGtEz8GM-Q0x9uI
     plugins={'root': 'Music.Plugins'},
 ).start()
 
